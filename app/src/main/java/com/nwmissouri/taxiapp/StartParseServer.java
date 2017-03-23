@@ -27,7 +27,7 @@ public class StartParseServer extends Application {
                 //COmmit with this project
         );
 
-        ParseUser parseUser = new ParseUser();
+        /*ParseUser parseUser = new ParseUser();
         parseUser.put("username","Sri");
         parseUser.saveInBackground();
         ParseObject parseObject = new ParseObject("Examples");
@@ -43,7 +43,7 @@ public class StartParseServer extends Application {
                 }
             }
         });
-
+*/
 
     }
 }
